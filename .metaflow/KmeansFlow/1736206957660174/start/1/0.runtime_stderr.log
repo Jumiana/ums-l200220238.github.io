@@ -1,0 +1,7 @@
+[MFLOG|0|2025-01-06T23:47:45.301942Z|runtime|1881d3b2-e87a-48af-91a1-4a9fc9091f20]<flow KmeansFlow step start> failed:
+[MFLOG|0|2025-01-06T23:47:45.479966Z|runtime|9763df41-16fc-463d-877f-fe1a6619599c]    S3 access failed:
+[MFLOG|0|2025-01-06T23:47:45.480252Z|runtime|5971a5ad-827f-4efc-ba31-a0e2acdb9eba]    S3 operation failed.
+[MFLOG|0|2025-01-06T23:47:45.480448Z|runtime|186ebc1c-de0b-48cf-9c9b-280a2c03ca7c]    Key requested: s3://your-s3-bucket-name/data_group_cleaned.tar
+[MFLOG|0|2025-01-06T23:47:45.480637Z|runtime|62e33e5c-85b2-4735-94a9-8c4bc28c6984]    Error: Unable to locate credentials
+[MFLOG|0|2025-01-06T23:47:45.697593Z|runtime|f275d51c-5673-4b99-be54-b3bdafceb897]
+[MFLOG|0|2025-01-06T23:47:45.704443Z|runtime|8b6423ba-a9ba-498d-ac42-6db69925c318]Task failed.

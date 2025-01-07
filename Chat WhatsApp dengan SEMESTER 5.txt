@@ -1,0 +1,376 @@
+11/09/24 07.14 - Pesan dan panggilan dienkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+11/09/24 07.14 - Anda Membuat Grup Ini
+11/09/24 07.14 - Anda mengeluarkan Tugas
+11/09/24 07.15 - ~Ana: <Media tidak disertakan>
+11/09/24 07.15 - ~Ana: <Media tidak disertakan>
+11/09/24 07.15 - ~Ana: <Media tidak disertakan>
+11/09/24 07.15 - ~Ana: <Media tidak disertakan>
+11/09/24 07.15 - ~Ana: <Media tidak disertakan>
+11/09/24 10.11 - Anda mengubah deskripsi grup
+11/09/24 10.13 - ~Ana: https://drive.google.com/drive/folders/12azlEETkmKfYruEGe-kMn3tuSSm3x4C_
+11/09/24 10.13 - ~Ana: https://drive.google.com/drive/folders/1SHP9kLsk-_N35ML65VrxoIlRFS-O5NsL
+11/09/24 11.39 - Anda mengubah nama grup dari "SEMESTER 4" menjadi "SEMESTER 5"
+11/09/24 12.59 - ~Ana: Metopen :
+- Mulai jam 12.30 toleransi - 13.00
+- kehadiran 5%
+- UTS UAS 25% 35%
+- tugas 35%
+11/09/24 23.17 - Anda mengubah ikon grup ini
+12/09/24 12.55 - ~Ana: DWDM :
+- masuk 12.45
+- presensi 15%
+- tugas/kuis 25%
+- UAS/UTS 30%
+13/09/24 17.20 - ~Ana: Libgen .is
+16/09/24 10.00 - ~Ana: Group WhatsApp: https://chat.whatsapp.com/GZxn0rRang8GT0cTHdIeZF
+16/09/24 10.30 - ~Ana: Join OpenLearning: URL: https://myedu.ums.ac.id/courses/dwdm-informatika/ ---- Kode Akses: DWDM_20241C ===================================== Join Grup WA: https://ums.id/DWDM2024_C
+17/09/24 04.08 - ~Ana: Tentu, berikut adalah beberapa ide judul penelitian yang bisa kamu pertimbangkan, sesuai dengan latar belakangmu sebagai mahasiswa informatika:
+
+1. **"Analisis Pengaruh Metode Agile terhadap Produktivitas Tim Pengembang Perangkat Lunak di Indonesia"**
+   - Meneliti bagaimana metode Agile mempengaruhi produktivitas tim pengembang perangkat lunak lokal.
+
+2. **"Implementasi Machine Learning dalam Prediksi Kebutuhan Sumber Daya Cloud Computing untuk Aplikasi Berbasis Web"**
+   - Penelitian ini bisa berfokus pada bagaimana machine learning digunakan untuk memprediksi kebutuhan sumber daya.
+
+3. **"Studi Perbandingan Efektivitas Algoritma Sorting dalam Mengelola Big Data"**
+   - Membandingkan berbagai algoritma sorting dalam konteks pengolahan big data.
+
+4. **"Analisis Keamanan Jaringan pada Implementasi Internet of Things (IoT) di Lingkungan Perkotaan"**
+   - Fokus pada tantangan keamanan dalam implementasi IoT di area urban.
+
+5. **"Pengaruh Gamifikasi pada Aplikasi Pembelajaran Online terhadap Tingkat Retensi Pengguna"**
+   - Meneliti seberapa efektif gamifikasi dalam meningkatkan engagement pada aplikasi pembelajaran.
+
+Jika ada topik spesifik yang kamu minati, saya bisa membantu menyesuaikan judul sesuai dengan preferensimu!
+17/09/24 12.52 - ~Ana: Primary key kunci untuk relasi dalam tabel, unik, tidak boleh kosong
+Foren kunci untuk menghubungkan tabel satu dengan yg lain
+17/09/24 20.12 - ~Ana: Menghitung terkait hal hal yg tidak pasti
+
+Di dunia ini banyak sekali yg tidak pasti misal ketika kita diminta untuk mencicipi makanan ga tau enak atau tidak itu adalah suatu yg subjektif 
+
+Contoh lain nama aji "aji ini pinter / cakep relatif atau tidak pasti
+
+Adanya error atau kesalahan dan kehidupan
+17/09/24 20.17 - ~Ana: <Media tidak disertakan>
+17/09/24 20.17 - ~Ana: <Media tidak disertakan>
+17/09/24 20.19 - ~Ana: <Media tidak disertakan>
+17/09/24 20.19 - ~Ana: Menguji eksperimen yg di lalukan apakah benar atau tidak
+17/09/24 20.20 - ~Ana: <Media tidak disertakan>
+17/09/24 20.22 - ~Ana: <Media tidak disertakan>
+17/09/24 20.24 - ~Ana: Ilmu dasar yg digunakan untuk banyak hal 
+
+Advance
+Membuat robot, kecerdasan buatan, pengenalan wajah sidik jari gerakan dll maps
+17/09/24 20.28 - ~Ana: <Media tidak disertakan>
+17/09/24 20.37 - ~Ana: <Media tidak disertakan>
+17/09/24 20.37 - ~Ana: <Media tidak disertakan>
+17/09/24 20.37 - ~Ana: <Media tidak disertakan>
+17/09/24 20.37 - ~Ana: <Media tidak disertakan>
+17/09/24 21.48 - ~Ana: <Media tidak disertakan>
+18/09/24 09.24 - ~Ana: Berikut adalah beberapa rekomendasi judul penelitian yang bisa kamu pertimbangkan mengenai dampak ChatGPT untuk mahasiswa informatika:
+
+1. **"Pengaruh Penggunaan ChatGPT sebagai Asisten Pembelajaran pada Mahasiswa Informatika: Studi Kasus di Universitas X"**
+2. **"Efektivitas ChatGPT dalam Membantu Pemahaman Konsep Pemrograman pada Mahasiswa Informatika"**
+3. **"Analisis Dampak ChatGPT terhadap Kinerja Akademik Mahasiswa Informatika dalam Mata Kuliah Pemrograman"**
+4. **"ChatGPT sebagai Alat Bantu Penulisan Kode: Persepsi Mahasiswa Informatika terhadap Penggunaannya"**
+5. **"Peran ChatGPT dalam Mendukung Kreativitas dan Inovasi Mahasiswa Informatika dalam Pengembangan Perangkat Lunak"**
+6. **"Studi Komparatif: Penggunaan ChatGPT vs. Metode Pembelajaran Tradisional dalam Meningkatkan Produktivitas Mahasiswa Informatika"**
+
+Judul-judul ini bisa disesuaikan dengan fokus penelitian yang ingin kamu dalami, misalnya aspek kognitif, motivasi, atau efektivitas pembelajaran dengan bantuan ChatGPT.
+18/09/24 09.29 - ~Ana: Efektivitas ChatGPT dalam membantu pemahaman konsep pemrograman pada mahasiswa informatika
+18/09/24 13.14 - ~Ana: **Fabrication**, **falsification**, **plagiarism**, **exploitation**, **injustice**, **intended**, **careless**, dan **duplication** adalah istilah yang berkaitan dengan etika dalam penelitian dan tindakan sehari-hari, terutama terkait integritas, tanggung jawab, serta konsekuensi dari perilaku tertentu.
+
+1. **Fabrication** adalah tindakan mengarang atau memalsukan data dan hasil penelitian yang tidak pernah ada. Ini merusak kredibilitas ilmiah karena menyajikan informasi palsu yang bisa menyesatkan.
+   
+2. **Falsification** adalah manipulasi data atau hasil penelitian yang ada, di mana peneliti mengubah atau menghapus informasi untuk mendukung hipotesis mereka, yang juga merupakan bentuk pelanggaran serius terhadap integritas ilmiah.
+
+3. **Plagiarism** adalah mengambil ide, karya, atau teks orang lain dan mengklaimnya sebagai milik sendiri tanpa memberikan atribusi yang sesuai. Ini termasuk **self-plagiarism**, di mana seseorang menerbitkan kembali karyanya sendiri tanpa pengakuan yang tepat.
+
+4. **Exploitation** terjadi ketika seseorang atau suatu kelompok memanfaatkan orang lain atau sumber daya secara tidak adil untuk keuntungan pribadi. Ini bisa melibatkan eksploitasi tenaga kerja, sumber daya alam, atau hubungan sosial.
+
+5. **Injustice** adalah tindakan ketidakadilan di mana hak-hak seseorang atau kelompok dilanggar, baik dalam bentuk diskriminasi sosial, hukum, ekonomi, atau lingkungan, yang merugikan pihak-pihak yang kurang berdaya.
+
+6. **Intended** merujuk pada tindakan yang dilakukan dengan sengaja dan penuh perencanaan, di mana pelaku sepenuhnya sadar akan konsekuensinya.
+
+7. **Careless** adalah tindakan yang dilakukan tanpa perhatian atau kehati-hatian yang cukup, yang sering kali mengakibatkan kesalahan atau kerusakan yang tidak disengaja.
+
+8. **Duplication** merujuk pada pengulangan atau penggandaan sesuatu, baik data, karya, atau produk, yang bisa terjadi secara disengaja atau tidak. Dalam konteks akademik, ini bisa menjadi masalah, seperti pada kasus **self-plagiarism** atau duplikasi data yang tidak efisien.
+
+Secara keseluruhan, istilah-istilah ini berhubungan dengan cara seseorang bertindak dalam konteks etika, baik dalam penelitian, pekerjaan, atau interaksi sosial. Pelanggaran terhadap etika ini, seperti fabrication, falsification, plagiarism, atau exploitation, sering kali didorong oleh niat (intended) atau kurangnya kehati-hatian (careless), dan dapat menghasilkan ketidakadilan (injustice) serta pengulangan yang tidak perlu (duplication).
+18/09/24 13.37 - ~Ana: Artikel jurnal atau prosiding seminar
+18/09/24 13.39 - ~Ana: <Media tidak disertakan>
+18/09/24 13.55 - ~Ana: Google scholer
+Research gatel
+Ocpus
+18/09/24 15.47 - ~Ana: Analis sistem :
+Menguraikan suatu sistem informasi yg utuh kedalam bagian bagian komponennya untuk mengidentifikasi dan mengevaluasi permasalahan,kesempatan, hambatan yg terjadi dan kebutuhan yg diperlukan untuk menyelesaikannya
+18/09/24 15.50 - ~Ana: Desain sistem merancang hasil dari analisis sistem
+18/09/24 15.50 - ~Ana: <Media tidak disertakan>
+18/09/24 15.50 - ~Ana: <Media tidak disertakan>
+18/09/24 15.55 - ~Ana: <Media tidak disertakan>
+18/09/24 16.01 - ~Ana: <Media tidak disertakan>
+18/09/24 16.03 - ~Ana: <Media tidak disertakan>
+18/09/24 16.04 - ~Ana: <Media tidak disertakan>
+18/09/24 16.05 - ~Ana: <Media tidak disertakan>
+18/09/24 16.08 - ~Ana: <Media tidak disertakan>
+18/09/24 16.08 - ~Ana: <Media tidak disertakan>
+18/09/24 16.08 - ~Ana: <Media tidak disertakan>
+20/09/24 17.41 - ~Ana: Https://www.netacad.com
+23/09/24 14.54 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+23/09/24 14.56 - ~Ana: <Media tidak disertakan>
+24/09/24 23.42 - Anda mengubah ikon grup ini
+24/09/24 23.42 - Anda mengubah ikon grup ini
+25/09/24 13.30 - ~Ana: Latar belakang 
+Fakta positif
+Fakta negatif
+Solusi
+25/09/24 14.00 - ~Ana: Fakta Positif
+•	Pada masa sekarang teknologi AI sangat berkembang pesat terutama di kalangan mahasiswa. 
+•	Perkembangan terbaru saat ini terkait teknologi informasi yang memberikan dampak yang besar terhadap dunia Pendidikan adalah kemunculan artificial intelligence (kecerdasan buatan) bernama ChatGPT
+•	Dengan adanya ChatGPT ini membantu mahasiswa dalam membantu memahami materi pembelajaran
+Fakta Negatif
+•	Namun seiring berjalannya waktu ChatGPT membuat mahasiswa menjadi kecanduan menggunakannya
+•	ChatGPT membuat peningkatan pada rasa malah mahasiswa
+•	Akibat copy paste dari chatgpt membuat membuat cara berpikir secara kritis mahasiswa menjadi menurun
+Solusi
+•
+26/09/24 09.52 - ~Ana: https://docs.google.com/document/d/1MpLRVE7AIALgHtfmSm7ifxd1uIsfq3gPBYxXfs1-6JA/edit?usp=drivesdk
+26/09/24 13.24 - ~Ana: <Media tidak disertakan>
+30/09/24 06.11 - ~Ana: <Media tidak disertakan>
+30/09/24 16.00 - ~Ana: <Media tidak disertakan>
+02/10/24 15.51 - ~Ana: <Media tidak disertakan>
+02/10/24 15.51 - ~Ana: <Media tidak disertakan>
+02/10/24 15.53 - ~Ana: <Media tidak disertakan>
+02/10/24 15.54 - ~Ana: <Media tidak disertakan>
+02/10/24 15.57 - ~Ana: <Media tidak disertakan>
+02/10/24 16.03 - ~Ana: <Media tidak disertakan>
+02/10/24 16.04 - ~Ana: <Media tidak disertakan>
+02/10/24 16.07 - ~Ana: <Media tidak disertakan>
+02/10/24 16.08 - ~Ana: <Media tidak disertakan>
+02/10/24 16.17 - ~Ana: <Media tidak disertakan>
+03/10/24 13.52 - ~Ana: <Media tidak disertakan>
+13/10/24 23.38 - ~Ana: https://docs.google.com/forms/u/0/d/e/1FAIpQLSe-g2rXLmXfMdavWzrnGK7Tig9YV6xJRzFNDMK_WJDLkcX3Aw/formResponse
+16/10/24 16.15 - ~Ana: <Media tidak disertakan>
+16/10/24 16.15 - ~Ana: <Media tidak disertakan>
+16/10/24 16.15 - ~Ana: <Media tidak disertakan>
+16/10/24 16.15 - ~Ana: <Media tidak disertakan>
+21/10/24 15.59 - ~Ana: 4 pointnya 25
+- banyak data dan diminta membuat tabel distribusi frekuensi step 
+- ukuran pemusatan data dari tabel distribusi yang dibuat
+- ukuran penyebaran data dihitung dari tabel distribusi yang dibuat
+- menghitung keruncingan dan kemencengan kurva dari tabel distribusi no 1 (dengan rumus moment)
+- boleh bawa kalkulator konvensional yang ada lognya <Pesan ini diedit>
+21/10/24 16.03 - ~Ana: Mencari panjang dan lebar kurang dari 5 bulatkan kebawah lebih dari 5 bulatkan ke atas
+
+Khusus penyebaran data dan keruncingan dan kemencengan  ambil 2 digit belakang saja
+23/10/24 10.35 - ~Ana: 1. Kerangka kerja MP
+2. Model  3 bidang
+3. Kerangka organisasi 
+4. Proses utama dalam manajemen lingkup / menejemen projek
+5. SRS sistem requirement spesification
+6. Lingkup perkejaan sdlc
+7. Kegiatan teknik sdlc
+8. Aktifitas manajemen sdlc
+23/10/24 10.36 - ~Ana: Tahapan manajemen waktu proyek
+Network diagram critical diagram presedicial diagram
+24/10/24 20.06 - ~Ana: <Media tidak disertakan>
+24/10/24 23.28 - ~Ana: <Media tidak disertakan>
+27/10/24 08.38 - ~Ana: https://1drv.ms/w/c/db71d405607e56a1/EXAvHSUfAbRLg_NtpDaOlOwBo9SGuR1V-_R0DIV-9VvSlA?e=crkCbm
+27/10/24 23.10 - ~Ana: <Media tidak disertakan>
+28/10/24 01.14 - ~Ana: <Media tidak disertakan>
+28/10/24 05.49 - ~Ana: https://docs.google.com/document/d/1U1K5-SCso9blEUm1eqG05dejlViQ18lE_YDKe9N5eRE/edit?usp=sharing
+28/10/24 09.58 - ~Ana: Kisi-kisi Analisis dan Perancangan Sistem
+
+Disajikan sebuah studi kasus
+1. Stakeholder - Pemangku (Disebutkan berdasarkan kerja, jenis internal eksternal, kepentingan)
+2. Teknik pengumpulan informasi (wawancara, dll)
+3. Tahapan analisis: Kelemahan, kebutuhan, kelayakan
+29/10/24 06.48 - ~Ana: from metaflow import FlowSpec, step
+
+class perjalanan_kuliah(FlowSpec):
+    """Simulasi perjalanan akademik di jurusan Informatika."""
+
+    def __init__(self):
+        super().__init__()
+        self.nilai_uts = None
+        self.nilai_uas = None
+        self.nilai_akhir = None
+
+    @step
+    def start(self):
+        """Langkah awal perjalanan kuliah."""
+        print("Membayar seluruh biaya kuliah untuk satu semester, "
+              "agar perjalanan akademik berjalan tanpa hambatan.")
+        self.next(self.proses_pendaftaran)
+
+    @step
+    def proses_pendaftaran(self):
+        """Langkah untuk melakukan pendaftaran kelas."""
+        print("Melakukan pendaftaran ke dalam kelas-kelas yang tersedia...")
+        self.next(self.mengikuti_perkuliahan)
+
+    @step
+    def mengikuti_perkuliahan(self):
+        """Langkah untuk menghadiri dan mengikuti perkuliahan."""
+        print("Mengikuti perkuliahan secara rutin dan berpartisipasi aktif dalam kegiatan...")
+        self.total_pertemuan = 14
+        self.kehadiran = 0
+
+        for pertemuan in range(1, self.total_pertemuan + 1):
+            hadir = True  # Simulasi kehadiran setiap pertemuan
+            if hadir:
+                self.kehadiran += 1
+            print(f"Pertemuan {pertemuan}: {'Hadir' if hadir else 'Absen'}")
+        
+        self.batas_kehadiran = int(0.75 * self.total_pertemuan)
+        if self.kehadiran >= self.batas_kehadiran:
+            print("Kehadiran memenuhi syarat.")
+        else:
+            print("Kehadiran tidak memenuhi syarat.")
+            self.next(self.end)
+        self.next(self.menerima_nilai)
+
+    @step
+    def menerima_nilai(self):
+        """Langkah untuk mendapatkan nilai UTS dan UAS."""
+        self.nilai_uts = 85  # Simulasi nilai UTS
+        self.nilai_uas = 88  # Simulasi nilai UAS
+        print(f"Nilai UTS: {self.nilai_uts}")
+        print(f"Nilai UAS: {self.nilai_uas}")
+        self.next(self.hitung_nilai_akhir)
+
+    @step
+    def hitung_nilai_akhir(self):
+        """Menghitung nilai akhir dari UTS dan UAS."""
+        self.nilai_akhir = (self.nilai_uts + self.nilai_uas) / 2
+        print(f"Nilai akhir keseluruhan: {self.nilai_akhir}")
+        self.next(self.end)
+
+    @step
+    def end(self):
+        """Akhir dari simulasi perjalanan akademik."""
+        print("Proses kuliah selesai dengan sukses!")
+
+if __name__ == '__main__':
+    perjalanan_kuliah()
+29/10/24 09.16 - ~Ana: https://docs.google.com/document/d/1SWJZMj-kt0UBNNlscUVJmHqmO9K2YriQwZhGJgAyJWY/edit?usp=sharing
+31/10/24 02.36 - ~Ana: <Media tidak disertakan>
+31/10/24 02.36 - ~Ana: <Media tidak disertakan>
+31/10/24 02.36 - ~Ana: 4 pointnya 25
+- banyak data dan diminta membuat tabel distribusi frekuensi step 
+- ukuran pemusatan data dari tabel distribusi yang dibuat
+- ukuran penyebaran data dihitung dari tabel distribusi yang dibuat
+- menghitung keruncingan dan kemencengan kurva dari tabel distribusi no 1 (dengan rumus moment)
+- boleh bawa kalkulator konvensional yang ada lognya
+31/10/24 02.42 - ~Ana: <Media tidak disertakan>
+31/10/24 02.43 - ~Ana: <Media tidak disertakan>
+31/10/24 02.44 - ~Ana: Anda menghapus pesan ini
+31/10/24 02.45 - ~Ana: <Media tidak disertakan>
+01/11/24 22.09 - ~Ana: 1. Kerangka kerja MP
+2. Model  3 bidang
+3. Kerangka organisasi 
+4. Proses utama dalam manajemen lingkup / menejemen projek
+5. SRS sistem requirement spesification
+6. Lingkup perkejaan sdlc
+7. Kegiatan teknik sdlc
+8. Aktifitas manajemen sdlc
+02/11/24 00.29 - ~Ana: 1. kerangka kerja menejemen proyek
+2. model 3 bidang (three space model) bisnis, org, tekno
+3. kerangka organisasi
+4. proses utama dalam menejemen lingkup/ proses utama dalam menjemen proyek
+5. SRS(system requirements specification) 
+6. lingkup pekerjaan SDLC 
+7. kegiatan teknik SDLC
+8. aktifitas menjemen SDLC
+9. tahapan menjemen waktu proyek
+10. network diagram dan critical analisis
+11. presendence diagram
+02/11/24 01.54 - ~Ana: <Media tidak disertakan>
+02/11/24 15.50 - ~Ana: <Media tidak disertakan>
+11/11/24 12.42 - ~Ana: Mari kita jawab soal-soal ini satu per satu.
+
+### Soal 1
+
+Diberikan ada 10 mahasiswa terpilih, dan kita ingin memilih 5 di antaranya untuk mengikuti lomba.
+
+1. **Alila harus terpilih**:
+   - Karena Alila sudah pasti terpilih, kita tinggal memilih 4 orang lagi dari sisa 9 orang.
+   - Banyak cara memilih 4 orang dari 9 adalah \( \binom{9}{4} \).
+
+2. **Alila tidak boleh dipilih**:
+   - Karena Alila tidak boleh dipilih, kita tinggal memilih 5 orang dari 9 orang yang tersisa.
+   - Banyak cara memilih 5 orang dari 9 adalah \( \binom{9}{5} \).
+
+3. **Alila harus terpilih, namun Boni tidak boleh dipilih**:
+   - Alila sudah pasti terpilih, dan Boni tidak boleh dipilih, jadi kita memilih 4 orang dari sisa 8 orang (tanpa Boni).
+   - Banyak cara memilih 4 orang dari 8 adalah \( \binom{8}{4} \).
+
+4. **Alila dan Boni keduanya harus terpilih**:
+   - Karena Alila dan Boni keduanya harus terpilih, kita tinggal memilih 3 orang dari sisa 8 orang.
+   - Banyak cara memilih 3 orang dari 8 adalah \( \binom{8}{3} \).
+
+5. **Alila dan Boni keduanya tidak boleh dipilih**:
+   - Karena Alila dan Boni tidak boleh dipilih, kita memilih 5 orang dari 8 orang yang tersisa.
+   - Banyak cara memilih 5 orang dari 8 adalah \( \binom{8}{5} \).
+
+6. **Alila atau Boni harus dipilih**:
+   - Kasus ini terdiri dari dua situasi: Alila terpilih atau Boni terpilih, tetapi harus menghindari memilih keduanya.
+   - Kita bisa menggunakan prinsip inklusi-eksklusi:
+     - Pilihan 1: Alila terpilih, pilih 4 orang lagi dari 8 (tidak termasuk Boni) → \( \binom{8}{4} \).
+     - Pilihan 2: Boni terpilih, pilih 4 orang lagi dari 8 (tidak termasuk Alila) → \( \binom{8}{4} \).
+     - Kasus yang tumpang tindih (keduanya terpilih) adalah memilih 3 orang dari 8 → \( \binom{8}{3} \).
+   - Jadi, banyak cara = \( \binom{8}{4} + \binom{8}{4} - \binom{8}{3} \).
+
+7. **Alila atau Boni harus dipilih, namun tidak boleh keduanya**:
+   - Kasus ini terdiri dari dua situasi: hanya Alila terpilih atau hanya Boni terpilih.
+   - Banyak cara:
+     - Pilihan 1: Alila terpilih, Boni tidak dipilih, pilih 4 orang lagi dari 8 (tidak termasuk Boni) → \( \binom{8}{4} \).
+     - Pilihan 2: Boni terpilih, Alila tidak dipilih, pilih 4 orang lagi dari 8 (tidak termasuk Alila) → \( \binom{8}{4} \).
+   - Jadi, banyak cara = \( \binom{8}{4} + \binom{8}{4} \).
+
+### Soal 2
+
+Ada 7 kursi dalam satu baris, dan lima orang: Sally, Lala, Handoko, Roni, dan Sindy, yang akan duduk di kursi tersebut. Syaratnya, Handoko dan Roni tidak boleh duduk bersebelahan.
+
+1. **Total cara duduk tanpa syarat**:
+   - Karena hanya 5 kursi yang terisi dari 7 kursi, kita perlu memilih 5 dari 7 posisi untuk ditempati mereka, dan cara mengatur mereka di posisi tersebut adalah dengan permutasi.
+   - Total cara = \( \binom{7}{5} \times 5! \).
+
+2. **Cara duduk dengan syarat Handoko dan Roni tidak bersebelahan**:
+   - Untuk menyelesaikan ini, kita dapat menghitung total cara duduk tanpa syarat, kemudian menguranginya dengan jumlah cara duduk di mana Handoko dan Roni duduk bersebelahan.
+   - Jika Handoko dan Roni dianggap satu unit, maka kita memiliki 4 unit untuk ditempatkan di 5 kursi (satu unit tambahan).
+   - Banyak cara duduk dengan Handoko dan Roni bersebelahan = \( \binom{7}{4} \times 4! \times 2! \).
+   - Maka, banyak cara duduk yang berbeda dengan syarat Handoko dan Roni tidak duduk bersebelahan = (total cara tanpa syarat) - (cara duduk dengan Handoko dan Roni bersebelahan).
+
+### Soal 3
+
+Diberikan klub sepakbola Barcelona FC memiliki 23 pemain, 3 di antaranya adalah penjaga gawang. Berapa banyak starting lineup yang dapat dibentuk?
+
+1. **Tepat satu penjaga gawang harus bermain**:
+   - Pilih 1 penjaga gawang dari 3, dan pilih 10 pemain dari 20 pemain lainnya.
+   - Banyak cara = \( \binom{3}{1} \times \binom{20}{10} \).
+
+2. **Formasi 4-4-2 atau 4-3-3**:
+   - Untuk setiap formasi, kita pilih 1 penjaga gawang dari 3, 4 bek, 4 gelandang, dan 2 atau 3 penyerang.
+   - Misal:
+     - Formasi 4-4-2: \( \binom{3}{1} \times \binom{20}{4} \times \binom{16}{4} \times \binom{12}{2} \).
+     - Formasi 4-3-3: \( \binom{3}{1} \times \binom{20}{4} \times \binom{16}{3} \times \binom{13}{3} \).
+   - Total banyak cara = (cara formasi 4-4-2) + (cara formasi 4-3-3).
+11/11/24 13.08 - ~Ana: .
+11/11/24 13.58 - ~Ana: <Media tidak disertakan>
+11/11/24 13.59 - ~Ana: <Media tidak disertakan>
+11/11/24 14.00 - ~Ana: <Media tidak disertakan>
+11/11/24 14.01 - ~Ana: <Media tidak disertakan>
+11/11/24 14.01 - ~Ana: <Media tidak disertakan>
+11/11/24 16.27 - ~Ana: <Media tidak disertakan>
+13/11/24 13.11 - ~Ana: Tujuan penelitian  itu ada di latar belakang paling akhir yaitu di solusi
+13/11/24 13.40 - ~Ana: <Media tidak disertakan>
+14/11/24 20.19 - ~Ana: https://nusaira.vercel.app/login
+03/12/24 12.05 - ~Ana: https://github.com/Dalfya/Prak-DWDM-AFTER-UTS/tree/main/L200200039-12
+03/12/24 12.05 - ~Ana: https://github.com/nickyjs/Praktikum-DWDM-Semester5-UMS/tree/master/L200200101_12
+05/12/24 10.57 - ~Ana: Storyboardthat.com
