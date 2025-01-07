@@ -1,1 +1,190 @@
+<<<<<<< HEAD
 "<!DOCTYPE html><html><head><title>My Website</title></head><body><h1>Hello, World!</h1></body></html>" 
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laporan Clustering</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #2980b9;
+            padding: 20px;
+            text-align: center;
+            color: #fff;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        main {
+            margin: 20px 0;
+        }
+
+        h2 {
+            font-size: 2em;
+            margin: 20px 0 10px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-evenly;
+        }
+
+        .card {
+            background-color: #34495e;
+            border: 1px solid #7f8c8d;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            flex: 1 1 calc(30% - 20px);
+            max-width: 300px;
+            color: #ecf0f1;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
+        }
+
+        .card h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #1abc9c;
+        }
+
+        .card p {
+            margin: 10px 0;
+        }
+
+        pre {
+            background-color: #2c3e50;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-family: 'Courier New', Courier, monospace;
+            border: 1px solid #7f8c8d;
+            color: #1abc9c;
+        }
+
+        .analysis-card {
+            background-color: #34495e;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            margin-top: 20px;
+            color: #ecf0f1;
+        }
+
+        .analysis-card h3 {
+            margin-bottom: 10px;
+            color: #e74c3c;
+        }
+
+        .analysis-card p {
+            margin: 10px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2980b9;
+            color: #fff;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 600px) {
+            .card {
+                flex: 1 1 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Laporan Clustering</h1>
+    </header>
+
+    <main>
+        <section class="task-stages">
+            <h2>Tahapan Penyelesaian Tugas</h2>
+            <div class="card-container">
+                <div class="card">
+                    <h3>1. Export Konten</h3>
+                    <p><strong>Export konten beberapa group Whatsapp:</strong> Berasal dari beberapa GROUP yang berbeda untuk digabung menjadi satu file. File yang saya gunakan bernama data_group.txt</p>
+                </div>
+                <div class="card">
+                    <h3>2. Konversi Data</h3>
+                    <p><strong>Konversi data grup dari TXT ke CSV:</strong> Menggunakan aplikasi Excel dan kemudian dari aplikasi Excel export file tersebut menjadi file CSV. Hasil dari Konversi file menjadi data_group.csv setelah itu mengkonversi file data tersebut menjadi file TAR.</p>
+                </div>
+                <div class="card">
+                    <h3>3. Pembersihan Data</h3>
+                    <p><strong>Pembersihan Data:</strong> Mengambil angka, huruf, dan tanda baca-tulis umum. Saya menggunakan kode Python untuk melakukan filtering data pada file clean_data.py dan menghasilkan cleaned_data_group.csv.</p>
+                </div>
+                <div class="card">
+                    <h3>4. Kode Program</h3>
+                    <p><strong>Kode program scale_data.py dan many_kmeans_flow.py:</strong> Kode (scale_data.py) membaca data teks dari file CSV, mengubahnya menjadi angka (numerik) menggunakan metode TF-IDF, dan menyimpan hasilnya ke file CSV baru bernama scaled_data.csv.</p>
+                </div>
+                <div class="card">
+                    <h3>5. Hasil Clustering</h3>
+                    <p><strong>Tampilkan hasil clustering:</strong> Tahap ini menghasilkan:</p>
+                    <h4>3 Clusters</h4>
+                    <pre>Cluster 0: 856
+Cluster 1: 090
+Cluster 2: ber</pre>
+                    <h4>4 Clusters</h4>
+                    <pre>Cluster 0: eror
+Cluster 1: gak
+Cluster 2: 32
+Cluster 3: lagi</pre>
+                    <h4>5 Clusters</h4>
+                    <pre>Cluster 0: smart
+Cluster 1: id
+Cluster 2: ig
+Cluster 3: event
+Cluster 4: atau</pre>
+                </div>
+            </div>
+        </section>
+
+        <section class="analysis-conclusion">
+            <div class="analysis-card">
+                <h2>Analisis dan Kesimpulan</h2>
+                <h3>Analisis</h3>
+                <p>Hasil clustering menunjukkan bahwa untuk tiga kluster, istilah yang paling dominan adalah "856", "090", "ber" yang mungkin mencerminkan pola atau kategori tertentu dalam data, meskipun beberapa istilah tampak tidak lengkap. Untuk empat kluster, istilah seperti "eror", "gak", "32" menunjukkan adanya masalah atau ketidakpuasan, sementara untuk lima kluster, istilah "smart", "id", "ig", "event", dan "atau" menunjukkan fokus pada teknologi.</p>
+                
+                <h3>Kesimpulan</h3>
+                <p>Kesimpulan dari hasil clustering ini adalah bahwa data yang dianalisis menunjukkan pola yang berbeda tergantung pada jumlah kluster yang digunakan. Pada tiga kluster, istilah yang muncul cenderung tidak lengkap dan mungkin mencerminkan kategori yang kurang jelas. Pada empat kluster, terdapat indikasi masalah atau ketidakpuasan yang diwakili oleh istilah seperti "eror" dan "gak". Sementara itu, pada lima kluster, istilah yang muncul lebih relevan dengan tema teknologi.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Laporan Clustering. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+>>>>>>> e24fe5c (Initial commit)
